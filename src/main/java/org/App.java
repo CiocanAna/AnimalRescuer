@@ -6,7 +6,8 @@ public class App {
 
         Animal animal = new Animal();
         animal.age = 3;
-        animal.name = "rozi";
+        animal.name = "rossie";
+        animal.color = "brown"
 
 
         AnimalActivity animalActivity = new AnimalActivity();
@@ -14,13 +15,13 @@ public class App {
 
 
         AnimalFood animalFood = new AnimalFood();
-        animalFood.name = " roz";
+        animalFood.name = "bobite";
 
         Rescuer rescuer = new Rescuer();
-        rescuer.name = " ionci";
+        rescuer.name = " Andrei";
 
         Vet vet = new Vet();
-        vet.name = " baci";
+        vet.name = " dr.CristianMuresan";
 
 
     }
